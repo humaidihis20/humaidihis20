@@ -55,23 +55,6 @@ working with databases, and solving real-world problems through technology.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humaidihis20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidihis20&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=humaidihis20&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📌 What I Like Working On
 
 ```text
